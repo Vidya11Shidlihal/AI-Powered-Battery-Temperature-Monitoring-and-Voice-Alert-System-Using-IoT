@@ -1,4 +1,4 @@
-Title: AI-Powered-Battery-Temperature-Monitoring-and-Voice-Alert-System-Using-IoT
+Title: AI-Powered Thermal Profiling for BatteryManagement
 
 Problem Statement :Batteries can overheat during operation, which may cause safety risks, reduced performance, and shorter battery life. In most systems, battery temperature is not monitored continuously, and overheating is detected only after damage occurs. Manual monitoring cannot predict future temperature rise or provide early warnings.
 
